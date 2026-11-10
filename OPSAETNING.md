@@ -24,3 +24,7 @@
 - Ingen babydata skal uploades til GitHub; kun appfilerne.
 - Undgå at bruge en anonym offentlig testdatabase eller regler som `allow read, write: if true`.
 - Hvis I redigerer den samme søvnperiode samtidig, kan den sidst synkroniserede ændring vinde.
+
+
+## Version 2.1
+Viser samlet vågentid i dag (tid siden midnat minus registreret søvn), for begge børn. Bevarer Firebase-data. Opdater alle filer på GitHub og tag en backup inden opdateringen.
